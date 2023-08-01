@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+#searchBar {
+  border-style: solid;
+  border-color: aqua;
+  background-color: bisque;
+  width: 500px;
+  display: flex;
+}

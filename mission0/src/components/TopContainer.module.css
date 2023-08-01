@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+#topContainer {
+  flex: 1;
+  background-color: #d9f2fd;
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+}
