@@ -3,6 +3,9 @@
 }
 
 #bottomContainer {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(12, 227, 12);
   background-color: rgb(214, 208, 208);
   height: 50vh;
 }

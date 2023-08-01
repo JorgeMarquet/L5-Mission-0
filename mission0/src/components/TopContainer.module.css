@@ -3,9 +3,9 @@
 }
 
 #topContainer {
-  flex: 1;
+  border-style: solid;
+  border-color: rgb(243, 243, 7);
+  border-width: 5px;
   background-color: #d9f2fd;
-  display: flex;
-  flex-direction: column;
   height: 50vh;
 }
