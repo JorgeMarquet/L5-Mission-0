@@ -2,10 +2,35 @@
   box-sizing: border-box;
 }
 
-#navBar {
+#navBarContainer {
   border-style: solid;
   border-color: rgb(212, 9, 9);
   border-width: 5px;
-  background-color: violet;
-  height: 7vh;
+  background-color: white;
+}
+
+#companyInfo {
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background: pink;
+}
+
+#menuOptions {
+  border-style: solid;
+  border-color: rgb(74, 8, 216);
+  border-width: 5px;
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  margin-right: 20px;
+}
+
+.menuOption {
+  margin: 10px;
+  border-style: dashed;
 }
