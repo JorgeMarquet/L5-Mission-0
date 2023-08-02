@@ -14,5 +14,9 @@
   border-color: rgb(243, 243, 7); */
   border-width: 5px;
   background-color: gray;
-  height: 50vh;
+  height: 46vh;
+  background-image: url("../assets/logos/background_images/gray_background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }

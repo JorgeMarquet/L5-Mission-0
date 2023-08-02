@@ -3,9 +3,35 @@
 }
 
 #bottomContainer {
-  border-style: solid;
+  position: relative;
+  /* border-style: solid;
   border-width: 5px;
-  border-color: rgb(12, 227, 12);
+  border-color: rgb(12, 227, 12); */
   background-color: rgb(214, 208, 208);
-  height: 42vh;
+  height: 46vh;
+}
+
+#informationCards {
+  display: flex;
+  justify-content: center;
+  vertical-align: center;
+}
+
+.informationCard {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 40px 50px 0px 20px;
+  /* padding: 150px 220px; */
+  background-color: white;
+}
+
+.informationCardImage {
+  width: 400px;
+  background-color: aqua;
+}
+
+.informationCardDetails {
+  background-color: aquamarine;
+  padding-left: 20px;
 }

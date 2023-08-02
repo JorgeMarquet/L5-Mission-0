@@ -7,5 +7,10 @@
   border-color: aqua;
   background-color: bisque;
   width: 500px;
-  display: flex;
+  position: absolute;
+  left: 50%; /* Add this line to horizontally center the SearchBar */
+  bottom: auto;
+  transform: translateX(
+    -50%
+  ); /* Add this line to horizontally center the SearchBar */
 }

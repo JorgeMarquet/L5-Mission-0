@@ -6,11 +6,6 @@ export default function topContainer() {
   return (
     <div id={styles.topContainer}>
       <div>
-        <img
-          className={styles.backgroundImage}
-          alt="background"
-          src={backgroundImage}
-        ></img>
         <SearchBar />
       </div>
     </div>
