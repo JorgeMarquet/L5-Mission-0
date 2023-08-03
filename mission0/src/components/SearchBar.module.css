@@ -29,3 +29,7 @@
   width: 120px;
   text-transform: uppercase;
 }
+
+.searchButton:hover {
+  background-color: rgb(34, 34, 34);
+}

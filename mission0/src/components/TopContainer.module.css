@@ -11,8 +11,8 @@
   position: relative;
   display: flex;
   /* border-style: solid;
-  border-color: rgb(243, 243, 7); */
-  border-width: 5px;
+  border-color: rgb(243, 243, 7);
+  border-width: 5px; */
   background-color: gray;
   height: 46vh;
   background-image: url("../assets/logos/background_images/gray_background.png");

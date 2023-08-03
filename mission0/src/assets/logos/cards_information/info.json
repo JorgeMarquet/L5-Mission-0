@@ -1,0 +1,17 @@
+{
+  "infoCards": [
+    { "photo": "mittens.png", "Name": "Mittens", "Description": "Test" },
+    { "photo": "mittens.png", "Name": "Mittens 2", "Description": "Test" },
+
+    { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" },
+    { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" },
+    { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" },
+    {
+      "photo": "frustrated.png",
+      "Name": "Frustrated coder",
+      "Description": "Test"
+    },
+    { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" },
+    { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" }
+  ]
+}

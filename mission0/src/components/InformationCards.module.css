@@ -3,14 +3,46 @@
 }
 
 #informationCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   border-style: solid;
-  border-color: aqua;
-  background-color: bisque;
-  width: 500px;
-  position: absolute;
-  left: 50%; /* Add this line to horizontally center the SearchBar */
-  bottom: auto;
-  transform: translateX(
-    -50%
-  ); /* Add this line to horizontally center the SearchBar */
+  border-color: rgba(173, 172, 172, 0.463);
+  border-radius: 1%;
+  background-color: white;
+  margin: 20px 200px;
+  overflow-y: auto; /* add this line */
+  max-height: 290px; /* you can adjust this to fit your needs */
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* handle */
+::-webkit-scrollbar-thumb {
+  background: #a8a8a8;
+}
+
+/* handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.informationCard {
+  border-style: solid;
+  border-color: rgb(69, 69, 69);
+  background-color: rgb(208, 208, 208);
+  margin: 25px;
+  height: auto;
+}
+
+.informationCardImage {
+  height: 100px;
+  width: auto;
 }
