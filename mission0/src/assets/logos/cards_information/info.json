@@ -12,6 +12,9 @@
       "Description": "Test"
     },
     { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" },
+    { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" },
+    { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" },
+    { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" },
     { "photo": "mittens.png", "Name": "Mittens 3", "Description": "Test" }
   ]
 }

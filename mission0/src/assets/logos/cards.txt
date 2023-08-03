@@ -1,0 +1,5 @@
+  {
+      "photo": "Scott_Carstairs.png",
+      "Name": "Scott Carstairs",
+      "Description": "Amazing guitarist"
+    },
